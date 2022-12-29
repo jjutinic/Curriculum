@@ -108,8 +108,9 @@ html{
 }
 
 .inicio .contenido-banner h2{
-    font-size: 15px;
+    font-size: 25px;
     font-weight: normal;
+    color: #1cb698;
 }
 
 .inicio .contenido-banner .redes a{
